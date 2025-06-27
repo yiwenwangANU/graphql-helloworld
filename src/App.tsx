@@ -1,5 +1,7 @@
+import DisplayData from "./DisplayData";
+
 function App() {
-  return <div>hello world</div>;
+  return <DisplayData />;
 }
 
 export default App;
